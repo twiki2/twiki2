@@ -14,7 +14,7 @@
 - 🛡️ Part-time **Bug Hunter** with a focus on web application security
 - 🤝 Looking to collaborate on open-source projects and expand my network
 - 💬 Ask me about **Software Development**, **Web Development**, **DevOps**, and **Cyber Security**
-- 📫 Reach me at **[twiki00@protonmail.com](mailto:twiki00@protonmail.com)**
+- 📫 Reach me at **[Proton mail](mailto:twiki00@protonmail.com)**
 
 ## 🛠️ Tech Stack
 
