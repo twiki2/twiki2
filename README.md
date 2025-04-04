@@ -27,7 +27,14 @@
 
 <br>
 
-<div >
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,postgres,java,spring,js,nodejs,react,express,jenkins,cpp,go,docker,kubernetes,html,css,php,bash,linux,redhat,markdown,obsidian)](https://skillicons.dev)
+
+### learning
+[![Learning](https://skillicons.dev/icons?i=aws,azure,grafana)](https://skillicons.dev)
+<br>
+
+<div>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twiki2/twiki2/output/github-contribution-grid-snake-dark.svg">
