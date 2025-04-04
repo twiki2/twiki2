@@ -14,6 +14,7 @@
 
   
 - 🔭 I’m currently on a journey to master **DevOps**
+
 - 👨‍💻 I'm doing part time **Bug Hunting** 
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
