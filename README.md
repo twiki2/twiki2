@@ -1,6 +1,4 @@
-<p align="center">
-  <img alig src="https://github.com/twiki2/twiki2/blob/master/typewriter.gif"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SDGlitchDemo&size=50&duration=1500&pause=550&color=2300FF&background=FFFEFE&center=true&vCenter=true&width=900&height=300&lines=Hello+%F0%9F%91%8B;I'm+Twiki;+Software+Engineer+(DevOps);+And+Infosec+enthusiast" alt="Typing SVG" /></a>
 
 <br>
 
