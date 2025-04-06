@@ -40,6 +40,8 @@
 <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="50" height="50" />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=twiki2&label=profile%20views&color=0e756b&style=flat" alt="twiki2" /> </p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
