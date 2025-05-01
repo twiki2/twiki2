@@ -31,13 +31,14 @@
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="53" style="width: 53px; height: 53px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="53" style="width: 53px; height: 53px;" />
   <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="50" height="50" />
 </div>
 
 ### 📚 Currently Learning
 <div style="display: flex; akign-items: center; justify-content: center; gap : 10px;">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="53" style="width: 53px; height: 53px;" />
 <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="50" height="50" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twiki2&label=profile%20views&color=0e756b&style=flat" alt="twiki2" /> </p>
