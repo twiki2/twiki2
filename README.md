@@ -4,7 +4,7 @@
   
 ```bash
 > whoami
-# Software Engineer specializing in DevOps with a passion for InfoSec
+# Software Engineer specializing in DevOps and InfoSec
 ```
 </div>
 
